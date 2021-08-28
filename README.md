@@ -1,1 +1,0 @@
-# noutbok-yoq
